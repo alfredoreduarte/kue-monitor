@@ -1,0 +1,12 @@
+{
+  "name": "kue-monitor",
+  "version": "1.0.0",
+  "description": "A monitor for KUE jobs",
+  "main": "index.js",
+  "repository": "https://github.com/alfredoreduarte/kue-monitor.git",
+  "author": "Alfredo Re <alfredoreduarte@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kue": "^0.11.6"
+  }
+}

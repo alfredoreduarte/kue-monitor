@@ -1,0 +1,8 @@
+{
+  "name": "Kue monitor",
+  "description": "A monitor for KUE jobs",
+  "repository": "git@github.com:alfredoreduarte/kue-monitor.git",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
